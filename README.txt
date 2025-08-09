@@ -1,4 +1,4 @@
-  =>  Template Name    : Pigra - Personal Portfolio Website Template
+  =>  Template Name    : Pigra - Personal Portfolio Website Template 
 
   =>  Template Link    : https://htmlcodex.com/personal-portfolio-website-template
 
